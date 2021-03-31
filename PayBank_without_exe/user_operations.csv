@@ -1,0 +1,418 @@
+email,name,process,time_stamp,balance
+harun@gmail.com,harun,Succesfully Signed Up,2021-03-23 13:54:04.166184,-
+harun@gmail.com,harun,Succesfully Logged in,2021-03-23 13:54:16.810983,-
+harun@gmail.com,harun,Succesfully Logged in,2021-03-23 13:56:34.322155,-
+harun@gmail.com,harun,Succesfully Logged in,2021-03-23 13:57:28.833934,-
+harun@gmail.com,harun,Checked the Balance,2021-03-23 13:57:30.432644,0
+harun@gmail.com,harun,Succesfully Logged in,2021-03-23 14:13:59.506434,-
+harun@gmail.com,harun,Checked the Balance,2021-03-23 14:14:19.561692,Current Balance:0
+harun@gmail.com,harun,Inserted 20 Euro (Ex Balance: 0),2021-03-23 14:14:41.720649,New Balance: 20
+harun@gmail.com,harun,Withdrawed 10 Euro (Ex Balance: 20),2021-03-23 14:18:03.765904,New Balance: 10
+harun@gmail.com,harun,Transfered 5 Euro (Ex Balance: 10),2021-03-23 14:19:37.471304,New Balance: 5
+bkr@gmail.com,bkr,Succesfully Logged in,2021-03-23 14:45:15.692059,-
+bkr@gmail.com,bkr,Checked the Balance,2021-03-23 14:45:31.438395,Current Balance:5 Euro
+bkr@gmail.com,bkr,Inserted 10 Euro (Ex Balance: 5),2021-03-23 14:45:36.294920,New Balance: 15 Euro
+bkr@gmail.com,bkr,User information is displayed,2021-03-23 14:45:48.317728,-
+bkr@gmail.com,bkr,Succesfully Logged in,2021-03-23 14:47:03.539615,-
+kadir@gmail.com,kadir,Succesfully Signed Up,2021-03-23 15:14:58.746182,-
+kadir@gmail.com,kadir,Succesfully Logged in,2021-03-23 15:15:27.145473,-
+mansur@gmail.com,mansur,Succesfully Signed Up,2021-03-23 16:20:15.178732,-
+mansur@gmail.com,mansur,Succesfully Logged in,2021-03-23 16:20:33.349317,-
+mansur@gmail.com,mansur,Inserted 30 Euro (Ex Balance: 0),2021-03-23 16:20:42.113647,New Balance: 30 Euro
+mansur@gmail.com,mansur,Withdrawed 5 Euro (Ex Balance: 30 Euro),2021-03-23 16:20:51.988117,New Balance: 25 Euro
+mansur@gmail.com,mansur,User information is displayed,2021-03-23 16:20:55.937328,-
+mansur@gmail.com,mnsr,Name is succesfully changed,2021-03-23 16:21:29.537686,-
+mansur@gmail.com,mnsr,User information is displayed,2021-03-23 16:21:37.900750,-
+mansur@gmail.com,mnsr,User account is succesfully deleted,2021-03-23 16:21:47.242138,-
+mansur@gmail.com,mnsr,Succesfully Logged out,2021-03-23 16:21:47.242138,-
+gokhan@gmail.com,gokhan,Succesfully Signed Up,2021-03-23 16:42:06.451096,-
+gokhan@gmail.com,gokhan,Succesfully Logged in,2021-03-23 16:42:27.854490,-
+gokhan@gmail.com,gokhan,Succesfully Logged out,2021-03-23 16:42:38.380323,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-23 19:08:57.416824,-
+admin@gmail.com,Administrator,Checked the Balance,2021-03-23 19:09:00.347279,Current Balance:110 Euro
+admin@gmail.com,Administrator,Succesfully Logged out,2021-03-23 19:09:14.832739,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-23 19:10:12.790903,-
+kenan@gmail.com,kenan,Succesfully Signed Up,2021-03-23 23:51:10.398929,-
+kdr@gmail.com,kdr,Succesfully Signed Up,2021-03-23 23:53:35.512434,-
+kdr@gmail.com,kdr,Succesfully Logged in,2021-03-23 23:54:38.848067,-
+kdr@gmail.com,kdr,Inserted 50 Euro (Ex Balance: 0),2021-03-23 23:54:52.817052,New Balance: 50 Euro
+kdr@gmail.com,kdr,Withdrawed 10 Euro (Ex Balance: 50 Euro),2021-03-23 23:55:05.459506,New Balance: 40 Euro
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-23 23:56:34.498828,-
+admin@gmail.com,Administrator,Checked the Balance,2021-03-23 23:56:41.634240,Current Balance:150 Euro
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:01:01.290636,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:02:45.924492,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:03:55.020000,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:29:24.141923,-
+kadir@gmail.com,kadir,Succesfully Logged in,2021-03-24 00:30:23.775434,-
+kadir@gmail.com,kadir,Inserted 100 Euro (Ex Balance: 0),2021-03-24 00:30:28.321965,New Balance: 100 Euro
+kadir@gmail.com,kadir,Checked the Balance,2021-03-24 00:30:31.110302,Current Balance:100 Euro
+kadir@gmail.com,kadir,Inserted 30 Euro (Ex Balance: 100),2021-03-24 00:30:38.447395,New Balance: 130 Euro
+kadir@gmail.com,kadir,Checked the Balance,2021-03-24 00:30:40.074183,Current Balance:130 Euro
+kadir@gmail.com,kadir,User information is displayed,2021-03-24 00:30:47.193462,-
+kadir@gmail.com,kadir,Succesfully Logged out,2021-03-24 00:30:51.529936,-
+kenan@gmail.com,kenan,Succesfully Logged in,2021-03-24 00:31:08.823318,-
+kenan@gmail.com,kenan,Inserted 30 Euro (Ex Balance: 0),2021-03-24 00:31:14.987940,New Balance: 30 Euro
+kenan@gmail.com,kenan,Checked the Balance,2021-03-24 00:31:16.960089,Current Balance:30 Euro
+kenan@gmail.com,kenan,Inserted 60 Euro (Ex Balance: 30),2021-03-24 00:31:21.955809,New Balance: 90 Euro
+kenan@gmail.com,kenan,Inserted 10 Euro (Ex Balance: 90),2021-03-24 00:31:29.062410,New Balance: 100 Euro
+kenan@gmail.com,kenan,Inserted 8 Euro (Ex Balance: 100),2021-03-24 00:31:36.040367,New Balance: 108 Euro
+kenan@gmail.com,kenan,Checked the Balance,2021-03-24 00:31:43.532824,Current Balance:108 Euro
+kenan@gmail.com,kenan,Succesfully Logged out,2021-03-24 00:31:51.287760,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:32:15.309831,-
+admin@gmail.com,Administrator,Checked the Balance,2021-03-24 00:32:18.832338,Current Balance:388 Euro
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:34:44.569653,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:35:45.859764,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:38:11.606317,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:48:17.029258,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:51:40.168660,-
+ahmet@gmail.com,Ahmet,Succesfully Logged in,2021-03-24 00:56:09.425775,-
+ahmet@gmail.com,Ahmet,Inserted 20 Euro (Ex Balance: 0),2021-03-24 00:56:14.007168,New Balance: 20 Euro
+ahmet@gmail.com,Ahmet,Withdrawed 10 Euro (Ex Balance: 20 Euro),2021-03-24 00:56:27.752951,New Balance: 10 Euro
+ahmet@gmail.com,Ahmet,Succesfully Logged out,2021-03-24 00:56:34.949743,-
+senol@gmail.com,senol,Succesfully Logged in,2021-03-24 00:56:56.421410,-
+senol@gmail.com,senol,Inserted 20 Euro (Ex Balance: 40),2021-03-24 00:57:01.998143,New Balance: 60 Euro
+senol@gmail.com,senol,Withdrawed 10 Euro (Ex Balance: 60 Euro),2021-03-24 00:57:10.214090,New Balance: 50 Euro
+senol@gmail.com,senol,Succesfully Logged out,2021-03-24 00:57:14.829909,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 00:57:30.301554,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 01:01:20.511834,-
+admin@gmail.com,Administrator,Checked the Balance,2021-03-24 01:01:38.983945,Current Balance:408 Euro
+mehmetturan@gmail.com,Mehmet Turan,Succesfully Signed Up,2021-03-24 03:21:56.546371,-
+gokhan@gmail.com,gokhan,Succesfully Logged in,2021-03-24 05:51:32.679760,-
+gokhan@gmail.com,gokhan,Inserted 10 Euro (Ex Balance: 0),2021-03-24 05:51:45.209997,New Balance: 10 Euro
+gokhan@gmail.com,gokhan,Checked the Balance,2021-03-24 05:51:48.631627,Current Balance:10 Euro
+gokhan@gmail.com,gokhan,Inserted 20 Euro (Ex Balance: 10),2021-03-24 05:52:43.385998,New Balance: 30 Euro
+gokhan@gmail.com,gokhan,Withdrawed 10 Euro (Ex Balance: 30 Euro),2021-03-24 05:52:49.947920,New Balance: 20 Euro
+gokhan@gmail.com,gokhan,Withdrawed 10 Euro (Ex Balance: 20 Euro),2021-03-24 05:53:07.228081,New Balance: 10 Euro
+gokhan@gmail.com,gokhan,Transfered 5 Euro (Ex Balance: 10 Euro),2021-03-24 05:53:47.975198,New Balance: 5 Euro
+gokhan@gmail.com,gokhan,Checked the Balance,2021-03-24 05:53:52.974842,Current Balance:5 Euro
+kdr@gmail.com,kdr,Succesfully Logged in,2021-03-24 06:26:01.592266,-
+kdr@gmail.com,kdr,Internal Transfered 20 Euro (Ex Balance: 40 Euro),2021-03-24 06:26:36.449175,New Balance: 20 Euro
+kdr@gmail.com,kdr,External Transfered 10 Euro (Ex Balance: 20 Euro),2021-03-24 06:27:13.008956,New Balance: 10 Euro
+kdr@gmail.com,kdr,External Transfered 5 Euro (Ex Balance: 10 Euro),2021-03-24 06:28:21.677986,New Balance: 5 Euro
+kemal@gmail.com,kemal Turan,Succesfully Logged in,2021-03-24 06:43:04.113697,-
+kemal@gmail.com,kemal Turan,Inserted 50 Euro (Ex Balance: 5),2021-03-24 06:43:17.834086,New Balance: 55 Euro
+kemal@gmail.com,kemal Turan,Withdrawed 5 Euro (Ex Balance: 55 Euro),2021-03-24 06:43:29.614195,New Balance: 50 Euro
+kemal@gmail.com,kemal Turan,Internal Transfered 15 Euro (Ex Balance: 50 Euro),2021-03-24 06:43:51.949179,New Balance: 35 Euro
+kemal@gmail.com,kemal Turan,External Transfered 5 Euro (Ex Balance: 35 Euro),2021-03-24 06:44:36.211541,New Balance: 30 Euro
+kemal@gmail.com,kemal Turan,Succesfully Logged out,2021-03-24 06:44:50.554412,-
+admin@gmail.com,Administrator,Succesfully Logged in,2021-03-24 06:45:06.865630,-
+admin@gmail.com,Administrator,Checked the Balance,2021-03-24 06:45:12.380976,Current Balance:443 Euro
+kadir@gmail.com,kadir,Succesfully Logged in,2021-03-24 06:57:30.052392,-
+kadir@gmail.com,kadir,External Transfered 10 Euro (Ex Balance: 130 Euro),2021-03-24 06:58:39.100481,New Balance: 120 Euro
+erayumut@gmail.com,Eray Umut,Succesfully Signed Up,2021-03-25 01:35:39.583572,-
+ahmetturan@gmail.com,Ahmet Turan,Succesfully Signed Up,2021-03-25 02:08:52.330265,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Signed Up,2021-03-25 11:56:04.294918,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-25 12:31:25.792012,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-25 12:31:32.951327,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-25 12:31:33.578964,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-25 12:31:34.014756,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-25 12:31:34.429513,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-25 12:31:34.863420,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-25 12:31:35.201207,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-25 12:31:35.419097,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-25 12:36:28.515409,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-25 12:43:19.182086,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged out,2021-03-25 12:43:25.657374,-
+mehmetturan@gmail.com,Mehmet Turan,Succesfully Logged in,2021-03-26 00:06:42.058027,-
+erayumut@gmail.com,Eray Umut,Succesfully Logged in,2021-03-26 12:25:42.305686,-
+erayumut@gmail.com,Eray Umut,User information is displayed,2021-03-26 12:26:00.727965,-
+erayumut@gmail.com,Eray Umut,Checked the Balance,2021-03-26 12:26:48.369370,Current Balance:0 Euro
+erayumut@gmail.com,Eray Umut,Inserted 30 Euro (Ex Balance: 0),2021-03-26 12:26:58.143665,New Balance: 30 Euro
+erayumut@gmail.com,Eray Umut,Internal Transfered 10 Euro (Ex Balance: 30 Euro),2021-03-26 12:27:35.918616,New Balance: 20 Euro
+admin@gmail.com,Admin Admin,Succesfully Logged in,2021-03-26 12:32:05.905627,-
+erayumut@gmail.com,Eray Umut,Succesfully Logged in,2021-03-26 18:06:08.991699,-
+mahmuttuncer@gmal.com,Mahmut Tuncer,Succesfully Signed Up,2021-03-26 18:08:08.113605,-
+erayumut@gmail.com,Eray Umut,Succesfully Logged out,2021-03-26 18:11:06.265223,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:18:04.663540,-
+cevdet12@gmail.com,Cevdet Abi,Checked the Balance,2021-03-26 20:18:07.503674,Current Balance:10 Euro
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:20:38.107079,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:23:10.750434,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:23:58.526121,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:25:01.905510,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:26:10.528736,-
+cevdet12@gmail.com,Cevdet Abi,Checked the Balance,2021-03-26 20:26:12.610630,Current Balance:10 Euro
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:33:08.316664,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:34:07.517516,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:36:26.892141,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged out,2021-03-26 20:37:02.182508,-
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:41:13.655495,-
+cevdet12@gmail.com,Cevdet Abi,Checked the Balance,2021-03-26 20:41:14.660261,Current Balance:10 Euro
+cevdet12@gmail.com,Cevdet Abi,Checked the Balance,2021-03-26 20:41:24.131158,Current Balance:10 Euro
+cevdet12@gmail.com,Cevdet Abi,Checked the Balance,2021-03-26 20:41:25.162836,Current Balance:10 Euro
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged in,2021-03-26 20:43:38.213878,-
+cevdet12@gmail.com,Cevdet Abi,Checked the Balance,2021-03-26 20:43:39.151817,Current Balance:10 Euro
+cevdet12@gmail.com,Cevdet Abi,Succesfully Logged out,2021-03-26 21:00:23.444672,-
+amhmetali@gmail.com,Ahmet Ali,Succesfully Signed Up,2021-03-26 21:01:36.294011,-
+mehmetali@gmail.com,Mehmet Ali,Succesfully Signed Up,2021-03-27 14:01:06.863094,-
+nihat@gmail.com,nihat turan,Succesfully Signed Up,2021-03-27 14:11:25.852679,-
+nihat@gmail.com,nihat turan,Succesfully Logged in,2021-03-27 14:12:00.800557,-
+nihat@gmail.com,nihat turan,Checked the Balance,2021-03-27 14:12:15.428331,Current Balance:0 Euro
+nihat@gmail.com,nihat turan,Inserted 40 Euro (Ex Balance: 0),2021-03-27 14:12:22.093641,New Balance: 40 Euro
+nihat@gmail.com,nihat turan,Withdrawed 10 Euro (Ex Balance: 40 Euro),2021-03-27 14:12:37.107473,New Balance: 30 Euro
+nihat@gmail.com,nihat turan,Internal Transfered 10 Euro (Ex Balance: 30 Euro),2021-03-27 14:13:07.090948,New Balance: 20 Euro
+nihat@gmail.com,nihat turan,Password is succesfully changed,2021-03-27 14:13:48.711855,-
+nihat@gmail.com,nihat turan,User information is displayed,2021-03-27 14:13:58.529952,-
+admin@gmail.com,Admin Admin,Succesfully Logged in,2021-03-27 14:18:46.658423,-
+admin@gmail.com,Admin Admin,Checked the Balance,2021-03-27 14:18:59.555432,Current Balance:80 Euro
+admin@gmail.com,Admin Admin,Succesfully Logged out,2021-03-27 14:20:04.839474,-
+amhmetali@gmail.com,Ahmet Ali,Succesfully Logged in,2021-03-27 14:21:17.920091,-
+amhmetali@gmail.com,Ahmet Ali,User account is succesfully deleted,2021-03-27 14:23:28.435511,-
+amhmetali@gmail.com,Ahmet Ali,Succesfully Logged out,2021-03-27 14:23:28.436511,-
+mehmetturan@gmail.com,Mehmet Turan,Succesfully Logged in,2021-03-27 14:25:06.718508,-
+mehmetturan@gmail.com,Mehmet Turan,Succesfully Logged out,2021-03-27 14:25:17.130675,-
+ismail@gmail.com,ismail adal,Succesfully Signed Up,2021-03-27 14:26:29.062065,-
+ismail@gmail.com,ismail adal,Succesfully Logged in,2021-03-27 14:26:56.222959,-
+ismail@gmail.com,ismail adal,Checked the Balance,2021-03-27 14:26:59.622308,Current Balance:0 Euro
+ismail@gmail.com,ismail adal,Checked the Balance,2021-03-27 14:27:01.477919,Current Balance:0 Euro
+ismail@gmail.com,ismail adal,Checked the Balance,2021-03-27 14:27:05.470288,Current Balance:0 Euro
+ismail@gmail.com,ismail adal,Checked the Balance,2021-03-27 14:27:06.592126,Current Balance:0 Euro
+ismail@gmail.com,ismail adal,Succesfully Logged in,2021-03-27 14:28:54.783436,-
+ismail@gmail.com,ismail adal,Succesfully Logged in,2021-03-27 14:29:50.398017,-
+ibrahimnihat@gmail.com,ibrahim nihat,Succesfully Signed Up,2021-03-27 15:13:00.744817,-
+ibrahimnihat@gmail.com,ibrahim nihat,Succesfully Logged in,2021-03-27 15:13:24.286445,-
+ibrahimnihat@gmail.com,ibrahim nihat,Checked the Balance,2021-03-27 15:13:36.849998,Current Balance:0 Euro
+ibrahimnihat@gmail.com,ibrahim nihat,Inserted 50 Euro (Ex Balance: 0),2021-03-27 15:13:46.696188,New Balance: 50 Euro
+ibrahimnihat@gmail.com,ibrahim nihat,Withdrawed 20 Euro (Ex Balance: 50 Euro),2021-03-27 15:14:03.067920,New Balance: 30 Euro
+ibrahimnihat@gmail.com,ibrahim nihat,Internal Transfered 10 Euro (Ex Balance: 30 Euro),2021-03-27 15:14:29.676289,New Balance: 20 Euro
+ibrahimnihat@gmail.com,ibrahim nihat,External Transfered 10 Euro (Ex Balance: 20 Euro),2021-03-27 15:14:58.796564,New Balance: 10 Euro
+ibrahimnihat@gmail.com,ibrahim nihat,Password is succesfully changed,2021-03-27 15:15:27.168696,-
+ibrahimnihat@gmail.com,ibrahim nihat,User information is displayed,2021-03-27 15:15:35.940335,-
+ibrahimnihat@gmail.com,ibrahim nihat,Succesfully Logged out,2021-03-27 15:16:05.651537,-
+admin@gmail.com,Admin Admin,Succesfully Logged in,2021-03-27 15:16:29.041635,-
+admin@gmail.com,Admin Admin,Checked the Balance,2021-03-27 15:16:35.113740,Current Balance:50 Euro
+admin@gmail.com,Admin Admin,Succesfully Logged out,2021-03-27 15:17:47.181353,-
+nihat@gmail.com,nihat turan,Succesfully Logged in,2021-03-27 15:18:13.735104,-
+nihat@gmail.com,nihat turan,User account is succesfully deleted,2021-03-27 15:18:16.836803,-
+nihat@gmail.com,nihat turan,Succesfully Logged out,2021-03-27 15:18:16.837786,-
+ismail@gmail.com,ismail adal,Succesfully Logged in,2021-03-27 15:21:20.507293,-
+ismail@gmail.com,ismail adal,Succesfully Logged out,2021-03-27 15:21:25.504223,-
+asd@gmail.com,asd asd,Succesfully Signed Up,2021-03-27 15:22:05.448944,-
+ismail@gmail.com,ismail adal,Succesfully Logged in,2021-03-27 15:26:01.611122,-
+ismail@gmail.com,ismail adal,Succesfully Logged in,2021-03-27 15:29:53.844954,-
+eray12@gmail.com,Eray Umut,Succesfully Signed Up,2021-03-29 03:23:45.006230,-
+eray22@gmail.com,Eray Umut,Succesfully Signed Up,2021-03-29 03:26:16.277467,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 04:14:34.614024,-
+eray22@gmail.com,Eray Umut,Succesfully Logged out,2021-03-29 04:14:36.627687,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 04:16:45.101201,-
+eray22@gmail.com,Eray Umut,Succesfully Logged out,2021-03-29 04:16:53.087095,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 11:29:02.191679,-
+eray22@gmail.com,Eray Umut,Succesfully Logged out,2021-03-29 11:29:15.393808,-
+admin@gmail.com,Admin Admin,Succesfully Logged out,2021-03-29 11:39:10.128445,-
+admin@gmail.com,Admin Admin,Succesfully Logged out,2021-03-29 11:40:47.238960,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 11:53:28.065327,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 11:56:05.878155,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 11:56:12.465492,-
+eray22@gmail.com,Eray Umut,Succesfully Logged out,2021-03-29 11:56:26.429888,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:03:11.186616,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:03:28.939100,-
+eray22@gmail.com,Eray Umut,Succesfully Logged out,2021-03-29 12:03:42.632602,-
+admin@gmail.com,Admin Admin,Succesfully Logged in,2021-03-29 12:13:46.987459,-
+admin@gmail.com,Admin Admin,Succesfully Logged out,2021-03-29 12:13:53.809692,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:15:10.584248,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:15:14.329275,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:20:44.554378,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:21:14.030894,-
+eray22@gmail.com,Eray Umut,Succesfully Logged out,2021-03-29 12:21:21.762746,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:26:26.884687,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:26:30.722919,-
+eray22@gmail.com,Eray Umut,Succesfully Logged out,2021-03-29 12:26:44.393017,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:27:18.535168,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:27:22.105221,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:27:46.713846,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:27:51.051509,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:33:24.365904,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:33:28.271713,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:34:52.627186,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:34:55.766416,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:39:30.516118,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:39:35.283455,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:43:02.742871,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:43:06.036985,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:44:47.653923,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:44:50.413943,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:47:19.742047,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:47:22.625078,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:48:08.954149,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:48:11.767186,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:48:14.018943,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:48:15.039915,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:48:15.677513,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:48:16.261425,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:48:17.339463,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:48:17.947096,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:48:18.549984,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:48:19.709472,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:48:21.175467,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:52:40.445637,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:52:43.283645,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:54:28.146639,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:54:31.344964,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:55:51.452839,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:55:55.100877,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:58:15.464376,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:58:18.483809,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 12:58:49.942731,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 12:58:53.082025,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 13:00:35.077037,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 13:00:37.678916,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 13:01:05.443674,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 13:01:08.401046,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 13:11:25.220577,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 13:11:28.043883,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 13:13:06.858655,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 13:13:10.170703,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 13:19:12.149454,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 13:19:15.023530,-
+eray22@gmail.com,Eray Umut,Succesfully Logged out,2021-03-29 13:19:24.663497,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 13:26:55.622248,-
+eray22@gmail.com,Eray Umut,Checked the Balance,2021-03-29 13:27:00.164309,Current Balance:50 Euro
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 13:27:09.432408,-
+eray22@gmail.com,Eray Umut,Succesfully Logged out,2021-03-29 13:27:27.328581,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 14:29:39.956256,-
+eray22@gmail.com,Eray Umut,Checked the Balance,2021-03-29 14:29:46.831362,Current Balance:50 Euro
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 14:29:51.837828,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 14:29:57.293213,-
+eray22@gmail.com,Eray Umut,Inserted 20 Euro (Ex Balance: 50),2021-03-29 14:30:45.234782,New Balance: 70 Euro
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 14:32:13.180336,-
+a,a,Succesfully Logged in,2021-03-29 14:35:39.470057,-
+a,a,Checked the Balance,2021-03-29 14:35:43.725133,Current Balance:10 Euro
+a,a,User information is displayed,2021-03-29 14:35:45.433508,-
+a,a,Succesfully Logged in,2021-03-29 14:37:00.750461,-
+a,a,Succesfully Logged in,2021-03-29 14:39:44.763423,-
+a,a,Checked the Balance,2021-03-29 14:39:47.631453,Current Balance:10 Euro
+a,a,Succesfully Logged in,2021-03-29 14:40:26.626679,-
+a,a,Succesfully Logged in,2021-03-29 14:40:54.099833,-
+a,a,Succesfully Logged in,2021-03-29 14:41:38.560814,-
+a,a,Inserted 10 Euro (Ex Balance: 10),2021-03-29 14:42:02.315047,New Balance: 20 Euro
+a,a,Succesfully Logged out,2021-03-29 14:42:58.882893,-
+a,a,Succesfully Logged in,2021-03-29 14:49:18.755429,-
+a,a,User information is displayed,2021-03-29 14:49:21.800663,-
+a,a,Succesfully Logged in,2021-03-29 14:53:33.080757,-
+a,a,User information is displayed,2021-03-29 14:53:38.817835,-
+a,a,Withdrawed 10 Euro (Ex Balance: 20 Euro),2021-03-29 14:54:02.115274,New Balance: 10 Euro
+a,a,User information is displayed,2021-03-29 14:55:02.611473,-
+a,a,Succesfully Logged in,2021-03-29 15:15:16.679080,-
+a,a,User information is displayed,2021-03-29 15:15:19.479079,-
+a,a,Inserted 30 Euro (Ex Balance: 10),2021-03-29 15:15:25.743638,New Balance: 40 Euro
+a,a,User information is displayed,2021-03-29 15:15:29.887994,-
+a,a,Succesfully Logged in,2021-03-29 15:16:59.361237,-
+a,a,Succesfully Logged in,2021-03-29 15:18:27.012647,-
+a,a,Internal Transfered 10 Euro (Ex Balance: 40 Euro),2021-03-29 15:19:43.171288,New Balance: 30 Euro
+a,a,Succesfully Logged in,2021-03-29 15:26:31.622829,-
+a,a,User information is displayed,2021-03-29 15:26:35.096843,-
+a,a,Internal Transfered 10 Euro (Ex Balance: 30 Euro),2021-03-29 15:27:16.981053,New Balance: 20 Euro
+a,a,Succesfully Logged in,2021-03-29 15:53:06.840584,-
+a,a,User information is displayed,2021-03-29 15:53:13.673381,-
+a,a,Checked the Balance,2021-03-29 15:53:17.087740,Current Balance:20 Euro
+a,a,User information is displayed,2021-03-29 15:53:18.127007,-
+a,a,User information is displayed,2021-03-29 15:53:28.909760,-
+a,a,External Transfered 10 Euro (Ex Balance: 20 Euro),2021-03-29 15:54:47.934186,New Balance: 10 Euro
+a,a,Succesfully Logged out,2021-03-29 15:55:26.168486,-
+a,a,Succesfully Logged in,2021-03-29 15:59:46.296067,-
+a,a,Checked the Balance,2021-03-29 15:59:51.013125,Current Balance:10 Euro
+a,a,User information is displayed,2021-03-29 15:59:53.660167,-
+a,a,Inserted 50 Euro (Ex Balance: 10),2021-03-29 15:59:58.743191,New Balance: 60 Euro
+a,a,User information is displayed,2021-03-29 16:00:01.471879,-
+a,a,External Transfered 20 Euro (Ex Balance: 60 Euro),2021-03-29 16:00:37.184360,New Balance: 40 Euro
+a,a,User information is displayed,2021-03-29 16:00:54.518625,-
+a,a,Checked the Balance,2021-03-29 16:01:13.274723,Current Balance:40 Euro
+a,a,User information is displayed,2021-03-29 16:01:14.388651,-
+admin@gmail.com,Admin Admin,Succesfully Logged in,2021-03-29 19:27:47.536760,-
+admin@gmail.com,Admin Admin,Succesfully Logged out,2021-03-29 19:27:59.894934,-
+a,a,Succesfully Logged in,2021-03-29 19:28:06.450992,-
+a,a,Inserted 50 Euro (Ex Balance: 40),2021-03-29 19:28:15.664034,New Balance: 90 Euro
+a,a,Succesfully Logged out,2021-03-29 19:28:23.189127,-
+admin@gmail.com,Admin Admin,Succesfully Logged in,2021-03-29 19:28:40.227321,-
+admin@gmail.com,Admin Admin,Succesfully Logged out,2021-03-29 19:28:49.186874,-
+admin@gmail.com,Admin Admin,Succesfully Logged in,2021-03-29 19:32:29.955237,-
+admin@gmail.com,Admin Admin,Succesfully Logged out,2021-03-29 19:32:43.272415,-
+a,a,Succesfully Logged in,2021-03-29 19:32:49.775122,-
+a,a,Withdrawed 30 Euro (Ex Balance: 90 Euro),2021-03-29 19:32:58.691652,New Balance: 60 Euro
+a,a,Succesfully Logged out,2021-03-29 19:33:03.778517,-
+admin@gmail.com,Admin Admin,Succesfully Logged in,2021-03-29 19:33:19.764848,-
+admin@gmail.com,Admin Admin,Succesfully Logged out,2021-03-29 19:33:26.298917,-
+admin@gmail.com,Admin Admin,Succesfully Logged in,2021-03-29 19:41:54.161476,-
+a,a,Succesfully Logged in,2021-03-29 19:46:04.827528,-
+a,a,Checked the Balance,2021-03-29 19:46:08.102223,Current Balance:60 Euro
+a,a,User information is displayed,2021-03-29 19:46:09.176996,-
+a,a,Inserted 80 Euro (Ex Balance: 60),2021-03-29 19:46:18.192677,New Balance: 140 Euro
+a,a,Withdrawed 40 Euro (Ex Balance: 140 Euro),2021-03-29 19:46:24.136679,New Balance: 100 Euro
+a,a,Succesfully Logged out,2021-03-29 19:47:10.184027,-
+admin@gmail.com,Bank Admin,Succesfully Logged in,2021-03-29 21:26:30.714734,-
+admin@gmail.com,Bank Admin,Checked the Balance,2021-03-29 21:26:34.141361,Current Balance:260 Euro
+admin@gmail.com,Bank Admin,Checked the Balance,2021-03-29 21:27:05.607279,Current Balance:260 Euro
+admin@gmail.com,Bank Admin,Succesfully Logged out,2021-03-29 21:27:08.965075,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 21:47:41.925206,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 21:49:29.676178,-
+eray22@gmail.com,Eray Umut,Checked the Balance,2021-03-29 21:49:34.024018,Current Balance:190 Euro
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 21:49:35.020450,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 21:49:38.778012,-
+eray22@gmail.com,Eray Oz,Name is succesfully changed,2021-03-29 21:50:20.022762,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 22:07:15.003604,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 22:07:19.345810,-
+eray22@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 22:21:13.939384,-
+eray22@gmail.com,Eray Umut,User information is displayed,2021-03-29 22:21:17.465137,-
+eray22@gmail.com,Eray Oz,Name is succesfully changed,2021-03-29 22:21:32.641448,-
+eray22@gmail.com,Eray Ozt,Name is succesfully changed,2021-03-29 22:22:09.251916,-
+eray22@gmail.com,Eray Ozt,Password is succesfully changed,2021-03-29 22:22:29.724351,-
+eray22@gmail.com,Eray Ozt,Succesfully Logged in,2021-03-29 22:39:16.736299,-
+eray22@gmail.com,Eray Ozt,Checked the Balance,2021-03-29 22:39:20.143922,Current Balance:190 Euro
+eray22@gmail.com,Eray Ozt,User information is displayed,2021-03-29 22:39:21.870791,-
+eray22@gmail.com,Ery Ozak,Name is succesfully changed,2021-03-29 22:40:02.293375,-
+eray22@gmail.com,Ery Ozak,Password is succesfully changed,2021-03-29 22:40:02.295373,-
+eray12@gmail.com,Eray Umut,Succesfully Logged in,2021-03-29 22:50:09.379722,-
+eray12@gmail.com,Eray Umut,Checked the Balance,2021-03-29 22:50:12.525221,Current Balance:0 Euro
+eray12@gmail.com,Eray Umut,User information is displayed,2021-03-29 22:50:13.274515,-
+eray12@gmail.com,Eray Umut,User account is succesfully deleted,2021-03-29 22:50:23.234306,-
+eray12@gmail.com,Eray Umut,Succesfully Logged out,2021-03-29 22:50:23.234306,-
+asd@gmail.com,asd asd,Succesfully Logged in,2021-03-29 22:54:50.119811,-
+asd@gmail.com,asd asd,Checked the Balance,2021-03-29 22:54:53.467061,Current Balance:0 Euro
+asd@gmail.com,asd asd,User account is succesfully deleted,2021-03-29 22:55:18.038098,-
+asd@gmail.com,asd asd,Succesfully Logged out,2021-03-29 22:55:18.039087,-
+eray22@gmail.com,Ery Ozak,Succesfully Logged in,2021-03-29 23:09:50.306020,-
+eray22@gmail.com,Ery Ozak,Succesfully Logged in,2021-03-30 11:56:32.268999,-
+eray22@gmail.com,Ery Ozak,Checked the Balance,2021-03-30 11:56:39.438083,Current Balance:190 Euro
+eray22@gmail.com,Ery Ozak,User information is displayed,2021-03-30 11:56:39.938949,-
+eray22@gmail.com,Ery Ozak,Checked the Balance,2021-03-30 11:57:10.347493,Current Balance:190 Euro
+eray22@gmail.com,Ery Ozak,User information is displayed,2021-03-30 11:57:11.152800,-
+eray22@gmail.com,Ery Ozak,Succesfully Logged out,2021-03-30 11:57:22.806739,-
+admin@gmail.com,Bank Admin,Succesfully Logged in,2021-03-30 11:57:56.352581,-
+admin@gmail.com,Bank Admin,Checked the Balance,2021-03-30 11:58:01.595319,Current Balance:260 Euro
+admin@gmail.com,Bank Admin,Checked the Balance,2021-03-30 11:58:14.880523,Current Balance:260 Euro
+admin@gmail.com,Bank Admin,Succesfully Logged out,2021-03-30 11:58:24.796498,-
+a,a,Succesfully Logged in,2021-03-31 01:50:36.452894,-
+a,a,Checked the Balance,2021-03-31 01:50:41.208000,Current Balance:0 Euro
+a,a,User information is displayed,2021-03-31 01:50:42.662675,-
+a,a,Inserted 20 Euro (Ex Balance: 0),2021-03-31 01:50:49.809316,New Balance: 20 Euro
+a,a,Withdrawed 10 Euro (Ex Balance: 20 Euro),2021-03-31 01:50:56.487107,New Balance: 10 Euro
+a,b,Name is succesfully changed,2021-03-31 01:51:32.483274,-
+a,b,Password is succesfully changed,2021-03-31 01:51:32.483274,-
+a,b,ID Number is succesfully changed,2021-03-31 01:51:32.483274,-
+a,a,Name is succesfully changed,2021-03-31 01:51:55.233735,-
+a,a,Password is succesfully changed,2021-03-31 01:51:55.233735,-
+a,a,ID Number is succesfully changed,2021-03-31 01:51:55.233735,-
+a,a,Inserted 30 Euro (Ex Balance: 10),2021-03-31 01:52:14.607919,New Balance: 40 Euro
+a,a,Succesfully Logged out,2021-03-31 01:52:27.478930,-
+admin@gmail.com,Bank Admin,Succesfully Logged in,2021-03-31 01:52:54.902347,-
+admin@gmail.com,Bank Admin,Checked the Balance,2021-03-31 01:52:58.532432,Current Balance:300 Euro
+admin@gmail.com,Bank Admin,Succesfully Logged out,2021-03-31 01:53:22.472465,-
+mahmut@gmail.com,Mahmut Tuncer,Succesfully Signed Up,2021-03-31 01:54:12.120973,-
+a,a,Succesfully Logged in,2021-03-31 02:05:06.244689,-
+a,a,User information is displayed,2021-03-31 02:05:24.893228,-
+a,a,Checked the Balance,2021-03-31 02:05:25.524613,Current Balance:40 Euro
+a,a,User information is displayed,2021-03-31 02:05:26.588038,-
+ahmetcan@gmail.com,Ahmet Can,Succesfully Signed Up,2021-03-31 02:55:49.362552,-
+ahmetcan@gmail.com,Ahmet Can,Succesfully Logged in,2021-03-31 02:56:20.190591,-
+ahmetcan@gmail.com,Ahmet Can,User information is displayed,2021-03-31 02:56:24.800678,-
+ahmetcan@gmail.com,Ahmet Can,Checked the Balance,2021-03-31 02:56:28.157540,Current Balance:0 Euro
+ahmetcan@gmail.com,Ahmet Can,Inserted 50 Euro (Ex Balance: 0),2021-03-31 02:57:04.694613,New Balance: 50 Euro
+ahmetcan@gmail.com,Ahmet Can,User information is displayed,2021-03-31 02:57:11.378153,-
+ahmetcan@gmail.com,Ahmet Can,Checked the Balance,2021-03-31 02:57:14.409001,Current Balance:50 Euro
+ahmetcan@gmail.com,Ahmet Can,Withdrawed 10 Euro (Ex Balance: 50 Euro),2021-03-31 02:57:36.906755,New Balance: 40 Euro
+ahmetcan@gmail.com,Ahmet Can,External Transfered 10 Euro (Ex Balance: 40 Euro),2021-03-31 02:58:07.278433,New Balance: 30 Euro
+ahmetcan@gmail.com,Ahmet Can,Internal Transfered 10 Euro (Ex Balance: 30 Euro),2021-03-31 02:58:34.428158,New Balance: 20 Euro
+ahmetcan@gmail.com,Ahmet Can,Succesfully Logged out,2021-03-31 02:58:50.422639,-
+admin@gmail.com,Bank Admin,Succesfully Logged in,2021-03-31 02:59:20.097738,-
+admin@gmail.com,Bank Admin,Checked the Balance,2021-03-31 02:59:24.164618,Current Balance:330 Euro
+admin@gmail.com,Bank Admin,Succesfully Logged out,2021-03-31 02:59:58.779241,-
+mehmetkurt@gmail.com,Mehmet Kurt,Succesfully Signed Up,2021-03-31 03:41:43.842700,-
